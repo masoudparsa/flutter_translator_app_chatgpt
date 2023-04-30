@@ -1,4 +1,4 @@
-# chat_gpt_test
+# flutter translator app with chatGPT
 
 A new Flutter project.
 
