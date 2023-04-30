@@ -1,6 +1,5 @@
 # flutter translator app with chatGPT
 
-A new Flutter project.
 
 ## Getting Started
 
